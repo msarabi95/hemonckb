@@ -1,0 +1,23 @@
+created: 20260907061909000
+modified: 20260907061909000
+tags: [[Landmark trials]] [[Classical follicular lymphoma]]
+title: PRIMA trial
+type: text/vnd.tiddlywiki
+
+[[Maintenance therapy in classical follicular lymphoma]]
+
+!! Design
+
+PRIMA enrolled previously untreated, high-tumor-burden FL (grades 1–3A). After response to rituximab-containing chemotherapy, 1,018 patients were randomized to observation or ''rituximab 375 mg/m² IV every 8 weeks for 2 years'', starting 8 weeks after induction. Induction was predominantly R-CHOP or R-CVP, with a small R-FCM group; ''BR was not studied''. Induction selection itself was not randomized.
+
+!! Results
+
+PFS = progression-free survival; OS = overall survival; HR = hazard ratio.
+
+* At the initial analysis, 3-year PFS was ''74.9% versus 57.6%'' (maintenance versus observation; HR 0.55). Grade 2–4 infections were more frequent: 39% versus 24%. [[PRIMA initial report, Salles et al., 2011|https://doi.org/10.1016/S0140-6736(10)62175-7]]
+* At approximately 9 years of follow-up, median PFS was ''10.5 versus 4.1 years''; estimated 10-year PFS was ''51.1% versus 35.0%'' (HR 0.61). Subsequent treatment was delayed, but ''there was no demonstrated OS benefit'': approximately 80% alive at 10 years in both arms. [[PRIMA long-term report, Bachy et al., 2019|https://doi.org/10.1200/JCO.19.01073]]
+
+!! Practical interpretation
+ strong randomized evidence for longer remission after response to R-CHOP/R-CVP. Discuss this benefit against infections, continued treatment visits, and patient preference; maintenance is not established to improve survival in this frontline setting.
+
+Evidence reviewed September 7, 2026.

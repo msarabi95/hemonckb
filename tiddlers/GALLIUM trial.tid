@@ -1,0 +1,23 @@
+created: 20260907061909000
+modified: 20260907061909000
+tags: [[Landmark trials]] [[Classical follicular lymphoma]]
+title: GALLIUM trial
+type: text/vnd.tiddlywiki
+
+[[Maintenance therapy in classical follicular lymphoma]]
+
+!! Design
+
+GALLIUM randomized 1,202 patients with previously untreated FL to ''obinutuzumab–chemotherapy followed by obinutuzumab maintenance'' or ''rituximab–chemotherapy followed by rituximab maintenance''. Chemotherapy was bendamustine, CHOP, or CVP; responders continued the same antibody for up to 2 years.
+
+!! Results
+
+PFS = progression-free survival; OS = overall survival; HR = hazard ratio.
+
+At median 7.9-year follow-up, 7-year PFS was ''63.4% versus 55.7%'' (HR 0.77), favoring the obinutuzumab strategy, with delayed next treatment but no significant OS advantage. Toxicity was greater with obinutuzumab. Bendamustine-containing treatment raised particular concerns about prolonged immunosuppression and infections; chemotherapy backbone comparisons were not randomized. [[GALLIUM final analysis, Townsend et al., 2023|https://pmc.ncbi.nlm.nih.gov/articles/PMC10317485/]]
+
+!! Practical interpretation
+
+This establishes efficacy of the complete obinutuzumab induction-plus-maintenance strategy, including after obinutuzumab–bendamustine. ''What it does not establish:'' the independent benefit of obinutuzumab maintenance versus observation, superiority of the maintenance antibody alone, or benefit from switching to obinutuzumab maintenance after rituximab-based induction. There was no second randomization at maintenance.
+
+Evidence reviewed September 7, 2026.
