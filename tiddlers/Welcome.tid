@@ -1,13 +1,55 @@
 created: 20260907002307159
-modified: 20260907002520577
+modified: 20260907054919000
 tags: 
 title: Welcome
 type: text/vnd.tiddlywiki
 
-This is HemOncKB, my personal non-linear web notebook for hematology and medical oncology knowledge.
+Welcome to HemOnc KB, my personal knowledge base for hematology and medical oncology. I keep brief, practical notes here for patient care, clinical learning, and board review.
 
-Feel free to explore. A few useful starting points are:
+I organize my notes around diseases, with additional ways in through clinical problems and treatments. This page is my starting point; some links lead to topics I have yet to write.
 
-* [[Supportive care]]
+!! Quick clinical reference
+
+* ''Emergencies:'' [[Hematologic emergencies]] · [[Oncologic emergencies]]
+* ''On call:'' [[Febrile neutropenia]] · [[Tumor lysis syndrome]] · [[Hypercalcemia]] · [[Spinal cord compression]] · [[SVC syndrome]]
+* ''Treatment decisions:'' [[Transfusion thresholds]] · [[Anticoagulation]] · [[Chemotherapy dose modifications]]
+* ''Treatment complications:'' [[Immune-related adverse events]] · [[CAR-T toxicities]] · [[Stem-cell transplant complications]]
+* ''Consults:'' [[Diagnostic algorithms]] · [[Common consult questions]]
+
+!! Browse by disease
+
+!!! Classical hematology
+[[Anemia]] · [[Hemoglobinopathies]] · [[Hemolysis]] · [[Thrombocytopenia]] · [[Platelet function disorders]] · [[Bleeding disorders]] · [[Thrombosis]] · [[Neutrophil disorders]] · [[Eosinophilia]] · [[Mast cell disorders]] · [[Bone marrow failure]] · [[Histiocytic disorders]]
+
+!!! Malignant hematology
+[[Myeloid malignancies]] · [[Lymphoid malignancies]] · [[Plasma cell disorders]] · [[Transplant and cellular therapy]]
+
+!!! Solid oncology
+[[Breast oncology]] · [[Thoracic oncology]] · [[Gastrointestinal oncology]] · [[Genitourinary oncology]] · [[Gynecologic oncology]] · [[Head and neck oncology]] · [[Endocrine malignancies]] · [[Melanoma and skin cancer]] · [[Sarcoma]] · [[CNS oncology]] · [[Cancer of unknown primary]] · [[Rare tumors]]
+
+!! Treatments and shared references
+
+* ''Therapy:'' [[Drugs A–Z]] · [[Regimens A–Z]] · [[Common drug toxicities]]
+* ''Patient support:'' [[Supportive care]] · [[Transfusion medicine]] · [[Special populations]] · [[Survivorship]] · [[Palliative care]]
+* ''Biology and diagnosis:'' [[Foundations of hematology]] · [[Hematopathology]] · [[Precision oncology]] · [[Cancer genetics]] · [[Molecular alterations A–Z]]
+* ''Clinical tools:'' [[Staging systems]] · [[Prognostic scores]] · [[Procedures and practical skills]]
+* ''Evidence:'' [[Landmark trials]] · [[Guidelines]] · [[Research and emerging therapies]]
+
+!! Study and reflection
+
+I use this section to connect clinical experience with board preparation and keep track of what I need to revisit.
+
+* [[Board review]] · [[Board pearls]] · [[Pattern recognition]] · [[Comparison tables]]
+* [[Question-bank mistakes]] · [[Clinical pearls]] · [[Open questions]]
+
+!! Master index
+[[Diseases A–Z]] · [[Drugs A–Z]] · [[Regimens A–Z]] · [[Molecular alterations A–Z]] · [[Landmark trials]] · [[Guidelines]]
+
+!! Recently updated notes
+<$list filter="[!is[system]!title[Welcome]has[modified]!sort[modified]limit[8]]" emptyMessage="As I add notes, the most recently updated ones will appear here.">
+<div><$link to=<<currentTiddler>>><$view field="title"/></$link></div>
+</$list>
+
+----
 
 Saeed Arabi
