@@ -1,12 +1,12 @@
 created: 20260907002307159
-modified: 20260907054919000
+modified: 20260907055908871
 tags: 
 title: Welcome
 type: text/vnd.tiddlywiki
 
-Welcome to HemOnc KB, my personal knowledge base for hematology and medical oncology. I keep brief, practical notes here for patient care, clinical learning, and board review.
+Welcome to HemOnc KB, a personal knowledge base for hematology and medical oncology. It contains brief, practical notes for patient care, clinical learning, and board review.
 
-I organize my notes around diseases, with additional ways in through clinical problems and treatments. This page is my starting point; some links lead to topics I have yet to write.
+Browse notes by disease, clinical problem, or treatment. Some links lead to topics planned for future notes.
 
 !! Quick clinical reference
 
@@ -35,9 +35,17 @@ I organize my notes around diseases, with additional ways in through clinical pr
 * ''Clinical tools:'' [[Staging systems]] · [[Prognostic scores]] · [[Procedures and practical skills]]
 * ''Evidence:'' [[Landmark trials]] · [[Guidelines]] · [[Research and emerging therapies]]
 
+!! Supportive care in oncology
+
+[[Supportive care overview|Supportive care]]
+
+* [[Hematopoietic growth factors]] · [[Antiresorptive therapy]] · [[Infectious prophylaxis]]
+* [[VTE prophylaxis in oncology]] · [[Cancer-associated thrombosis]]
+* [[Adult cancer pain]] · [[Antiemesis]] · [[Survivorship]]
+
 !! Study and reflection
 
-I use this section to connect clinical experience with board preparation and keep track of what I need to revisit.
+Board preparation, clinical pearls, and topics to revisit.
 
 * [[Board review]] · [[Board pearls]] · [[Pattern recognition]] · [[Comparison tables]]
 * [[Question-bank mistakes]] · [[Clinical pearls]] · [[Open questions]]
@@ -46,7 +54,7 @@ I use this section to connect clinical experience with board preparation and kee
 [[Diseases A–Z]] · [[Drugs A–Z]] · [[Regimens A–Z]] · [[Molecular alterations A–Z]] · [[Landmark trials]] · [[Guidelines]]
 
 !! Recently updated notes
-<$list filter="[!is[system]!title[Welcome]has[modified]!sort[modified]limit[8]]" emptyMessage="As I add notes, the most recently updated ones will appear here.">
+<$list filter="[!is[system]!title[Welcome]has[modified]!sort[modified]limit[8]]" emptyMessage="Recently updated notes will appear here as content is added.">
 <div><$link to=<<currentTiddler>>><$view field="title"/></$link></div>
 </$list>
 
