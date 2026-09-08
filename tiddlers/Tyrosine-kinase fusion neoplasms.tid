@@ -1,0 +1,13 @@
+created: 20260908233502471
+modified: 20260908234342549
+tags: [[Myeloid malignancies]]
+title: Tyrosine-kinase fusion neoplasms
+type: text/vnd.tiddlywiki
+
+* ''Key:'' Myeloid/lymphoid neoplasms with tyrosine-kinase fusions require fusion-directed treatment. Presentations include chronic myeloid disease, acute leukemia, or lymphoblastic lymphoma.
+* ''Eosinophilia:'' Common diagnostic clue, neither required nor sufficient. Persistent unexplained eosinophilia warrants evaluation for reactive causes and clonal disease; normal eosinophils do not exclude this category. Diagnosis requires a defining fusion in the appropriate clinicopathologic context, not an eosinophil threshold.
+* ''Drivers:'' PDGFRA, PDGFRB, FGFR1, JAK2, FLT3, and ETV6::ABL1.
+* ''Diagnosis:'' Marrow examination plus cytogenetic/molecular fusion testing. FIP1L1::PDGFRA is often cytogenetically cryptic: request fluorescence in situ hybridization (CHIC2 deletion) or reverse-transcription PCR. PDGFRB disease can mimic [[CMML|Chronic myelomonocytic leukemia]].
+* ''Treatment:'' PDGFRA/PDGFRB → imatinib, usually with deep, durable responses. With eosinophilic cardiac involvement, add corticosteroids initially. FGFR1 → pemigatinib is FDA-approved for adults with relapsed/refractory disease. Other fusions need specialist-directed therapy and early allogeneic transplant consideration.
+
+Sources: ASH SAP, 9th ed., ch. 38, pp. 467–469; [[WHO 2022|https://doi.org/10.1038/s41375-022-01613-1]]; [[FIGHT-203, Verstovsek 2025|https://doi.org/10.1056/EVIDoa2500017]].
