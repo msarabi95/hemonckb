@@ -1,0 +1,13 @@
+created: 20260908223119101
+modified: 20260908223119101
+tags: [[Chronic myelomonocytic leukemia]]
+title: Risk stratification and transplantation in CMML
+type: text/vnd.tiddlywiki
+
+* ''Decision:'' Assess transplant eligibility early in [[Chronic myelomonocytic leukemia]]. Allogeneic hematopoietic cell transplantation is the only potentially curative treatment; weigh disease risk against comorbidity, functional status, donor availability, relapse, and non-relapse mortality.
+* ''Score:'' Use a CMML-specific model, preferably CPSS-Mol (CMML-specific Prognostic Scoring System–molecular). It integrates cytogenetics and ASXL1, NRAS, RUNX1, SETBP1 mutations with WBC ≥13 × 10^9/L, marrow blasts ≥5%, and red-cell transfusion dependence. Use the validated weighted calculation; do not simply count mutations. Low/intermediate-1 generally supports observation or symptom-directed treatment; intermediate-2/high prompts transplant assessment.
+* ''Who proceeds:'' EBMT 2025 recommends direct transplantation for eligible CPSS-Mol high-risk patients with a suitable donor; intermediate-2 patients with additional adverse features such as extramedullary disease, splenomegaly, or hyperleukocytosis also warrant upfront transplantation. Lower-risk patients generally undergo dynamic monitoring rather than routine transplant.
+* ''Timing:'' Once indicated and feasible, prefer upfront transplantation without mandatory pretransplant remission induction, irrespective of marrow blast percentage in chronic-phase CMML. Consider hypomethylating-agent-based bridging for donor delay or rapidly progressive disease; coordinate with the transplant center. This recommendation rests largely on retrospective evidence and expert consensus.
+* ''Reassess:'' Worsening cytopenias, transfusion burden, blasts, proliferative symptoms, or organ involvement should trigger repeat risk assessment and reconsideration of [[Management of CMML]].
+
+Sources: [[Patnaik 2022|https://doi.org/10.3324/haematol.2021.279500]]; [[EBMT 2024|https://doi.org/10.1182/blood.2023023476]]; [[EBMT 2025, CMML section|https://pmc.ncbi.nlm.nih.gov/articles/PMC12583170/]].

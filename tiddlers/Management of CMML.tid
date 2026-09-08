@@ -1,0 +1,15 @@
+created: 20260908223119101
+modified: 20260908223119101
+tags: [[Chronic myelomonocytic leukemia]]
+title: Management of CMML
+type: text/vnd.tiddlywiki
+
+* ''Choose by phenotype and risk:'' Establish [[Diagnosis of CMML]] and consider [[transplantation early|Risk stratification and transplantation in CMML]]. Encourage clinical trials; nontransplant therapy primarily controls symptoms and blood counts.
+* ''Observe:'' Asymptomatic lower-risk disease without consequential cytopenias or proliferation can be monitored. Follow blood counts, transfusion needs, symptoms, spleen size, and renal function; repeat marrow for suspected progression.
+* ''Anemia/support:'' Correct reversible causes and provide transfusions as needed. Consider erythropoiesis-stimulating agents in lower-risk anemia, particularly with low endogenous erythropoietin and low transfusion burden. Individualize [[Supportive care]] and [[Infectious prophylaxis]] to treatment and neutropenia.
+* ''Proliferative disease:'' Hydroxyurea is a standard cytoreductive option for symptomatic leukocytosis, splenomegaly, or organ involvement. Monitor for worsening cytopenias. Suspected lysozyme-associated kidney injury is a reason to consider cytoreduction; WBC ≥13 × 10^9/L defines phenotype, not an automatic treatment indication.
+* ''Higher-risk/cytopenic disease:'' Azacitidine or decitabine, including oral decitabine/cedazuridine, are options when treatment is required. Responses are often incomplete/transient; monitor myelosuppression and infection. Mutation patterns are not absolute treatment-selection rules.
+* ''Evidence:'' DACOTA randomized 170 patients with advanced proliferative CMML. At median follow-up 17.5 months, decitabine increased responses but did not significantly improve event-free or overall survival versus hydroxyurea; median overall survival was 18.4 versus 21.9 months.
+* ''Progression:'' After hypomethylating-agent failure, prioritize trials and reassess transplant eligibility. Blast transformation requires an acute-myeloid-leukemia strategy; venetoclax combinations are not established routine chronic-phase CMML care.
+
+Sources: [[Solary/Itzykson 2017|https://doi.org/10.1182/blood-2017-04-736421]]; [[Patnaik 2022|https://doi.org/10.3324/haematol.2021.279500]]; [[DACOTA 2023|https://pubmed.ncbi.nlm.nih.gov/36455187/]]; [[Patnaik/Tefferi 2024|https://doi.org/10.1002/ajh.27271]].
