@@ -1,0 +1,14 @@
+created: 20260909042049932
+modified: 20260909042049932
+tags: [[Prostate cancer]]
+title: Life expectancy estimation in prostate cancer
+type: text/vnd.tiddlywiki
+
+* ''Decision:'' In [[Prostate cancer]], weigh competing mortality and time to treatment benefit against toxicity and patient preferences; chronological age alone is insufficient.
+* ''Estimate:'' Use age-based Social Security/WHO tables or tools incorporating health status (MSK male life expectancy; UCSF Lee–Schonberg). For life tables, NCCN adjusts remaining years by health quartile: healthiest ×1.5, middle half unchanged, least healthy ×0.5. A 10-year baseline becomes 15, 10, or 5 years. These are population estimates, not individual guarantees.
+* ''Refine:'' Assess comorbidities, daily function, cognition, nutrition, and frailty. Geriatric 8 score ≤14 warrants comprehensive geriatric assessment; correct reversible impairments before deciding fitness.
+* ''Low risk:'' NCCN favors active surveillance for most patients with ≥10 years; observation if <10 years. Surveillance retains curative intent with scheduled reassessment; observation/watchful waiting prioritizes symptom palliation.
+* ''Intermediate risk:'' With >10 years, consider definitive local therapy; selected favorable cases may undergo surveillance. At 5–10 years, observation is preferred for favorable disease; radiation remains an option, with androgen deprivation therapy for unfavorable disease.
+* ''High/very high risk:'' NCCN supports definitive treatment when >5 years or symptomatic; ≤5 years and asymptomatic permits observation or radiation with/without hormonal therapy. Thus, the usual 10-year rule is not universal; EAU generally uses >10 years for local-treatment benefit.
+
+Sources: NCCN Prostate Cancer v7.2026, PROS-A, PROS-3–6 (PDF 39, 16–19); ASCO SEP 2026, ch. 14, pp. 749, 751 (PDF 756, 758); [[EAU 2026|https://uroweb.org/guidelines/prostate-cancer/chapter/treatment]], §6.1–6.2.1.
