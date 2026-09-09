@@ -1,0 +1,13 @@
+created: 20260909041420358
+modified: 20260909041420358
+tags: [[Prostate cancer]]
+title: Monitoring and systemic treatment of prostate cancer recurrence after radiation
+type: text/vnd.tiddlywiki
+
+* ''First:'' Assess [[local salvage eligibility|Local salvage for prostate cancer recurrence after radiation]] before committing to systemic treatment. Biochemical recurrence alone does not mandate immediate androgen deprivation therapy (ADT).
+* ''Monitor:'' For asymptomatic, slowly rising PSA or limited life expectancy, use PSA/examination every 3–6 months and imaging for rising PSA or symptoms. Consider PSA doubling time (PSADT), Grade Group, comorbidity, and preferences. EAU advises against ADT for M0 disease with PSADT >12 months. Intermittent ADT is an option when ADT alone is selected for nonmetastatic recurrence.
+* ''High-risk M0:'' After local options are exhausted/inappropriate, offer enzalutamide plus ADT to EMBARK-like patients: PSADT ≤9 months, PSA ≥2 ng/mL above nadir after radiation, and no metastases on conventional imaging. Enzalutamide monotherapy is an approved alternative, with more gynecomastia/breast symptoms.
+* ''Evidence discriminator:'' In EMBARK's mixed post-surgery/post-radiation population, 8-year overall survival was 78.9% with enzalutamide/leuprolide versus 69.5% with leuprolide (death HR 0.60). Monotherapy improved metastasis-free survival but not overall survival significantly. The trial did not compare against treatment deferred until metastasis; PET-only metastatic disease requires individualized interpretation.
+* ''Metastases/progression:'' Metastatic hormone-sensitive disease generally needs ADT plus an androgen-receptor pathway inhibitor; selected oligorecurrence may receive metastasis-directed radiation. PSA progression despite castrate testosterone prompts a castration-resistant pathway. Address cardiovascular/metabolic risk, falls, and bone health through [[Survivorship]].
+
+Sources: NCCN Prostate Cancer v7.2026, PROS-10A, MS-36–37; ASCO SEP 2026, ch. 14, p. 758 (PDF 765); [[EAU 2026|https://uroweb.org/guidelines/prostate-cancer/chapter/treatment]], §6.4.6–7; [[EMBARK survival 2026|https://pubmed.ncbi.nlm.nih.gov/41124201/]].
