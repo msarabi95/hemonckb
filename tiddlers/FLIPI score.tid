@@ -1,0 +1,15 @@
+created: 20260909051425660
+modified: 20260909051425660
+tags: [[Classical follicular lymphoma]]
+title: FLIPI score
+type: text/vnd.tiddlywiki
+
+* Age >60 years: ''1 point'' (NCCN v4.2026 lists ≥60).
+* Ann Arbor stage III–IV: ''1 point''.
+* Hemoglobin <12 g/dL: ''1 point''.
+* Lactate dehydrogenase (LDH) > upper limit of normal: ''1 point''.
+* >4 involved nodal areas (≥5): ''1 point''.
+
+''Interpretation (sum, 0–5):'' 0–1 = low risk; 2 = intermediate risk; 3–5 = high risk. Absent items score 0.
+
+Sources: [[Solal-Céligny 2004|https://pubmed.ncbi.nlm.nih.gov/15126323/]]; NCCN B-Cell Lymphomas v4.2026, FOLL-A; ASH SAP, 9th ed., ch. 44, p. 538; ASCO SEP 2026, ch. 20, Table 20-2 (PDF p. 1151).
