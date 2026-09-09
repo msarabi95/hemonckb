@@ -1,5 +1,5 @@
 created: 20260907061909000
-modified: 20260907061909000
+modified: 20260909034724974
 tags: [[Landmark trials]] [[Classical follicular lymphoma]]
 title: FOLL12 trial
 type: text/vnd.tiddlywiki
@@ -8,9 +8,9 @@ type: text/vnd.tiddlywiki
 
 !! Design and findings
 
-PET = positron emission tomography; MRD = measurable residual disease; BR = bendamustine–rituximab; PFS = progression-free survival.
+Standard 2-year rituximab maintenance was compared with a PET/MRD-adapted strategy after R-CHOP or BR. The experimental arm used observation for complete metabolic/MRD-negative responders, MRD-triggered rituximab for molecular positivity, and radioimmunotherapy followed by maintenance for incomplete metabolic response. Standard maintenance produced better PFS; the BR subgroup analysis also favored it.
 
-standard 2-year rituximab maintenance was compared with a PET/MRD-adapted strategy after R-CHOP or BR. The experimental arm used observation for complete metabolic/MRD-negative responders, MRD-triggered rituximab for molecular positivity, and radioimmunotherapy followed by maintenance for incomplete metabolic response. Standard maintenance produced better PFS; the BR subgroup analysis also favored it. !! Practical interpretation
+!! Practical interpretation
 
 This was a comparison with a mixed response-adapted strategy, not observation for all BR responders. It argues against describing the BR evidence as entirely absent or using PET/MRD negativity alone to omit maintenance routinely. [[FOLL12, Luminari et al., 2022|https://doi.org/10.1200/JCO.21.01234]] [[BR subgroup, Nizzoli et al., 2023|https://doi.org/10.1002/hon.3184]]
 
