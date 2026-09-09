@@ -1,0 +1,18 @@
+created: 20260909044336938
+modified: 20260909044336938
+tags: [[Prostate cancer]]
+title: Pelvic lymph node anatomy for prostate cancer staging
+type: text/vnd.tiddlywiki
+
+* ''Key distinction:'' In [[Prostate cancer]], regional nodal metastases are ''N1''; nonregional nodal metastases are ''M1a''. Classify the nodal station, not simply whether it lies below the aortic bifurcation.
+* ''Regional (green):'' True-pelvic nodes below the division of each common iliac artery into internal and external iliac arteries: internal iliac (hypogastric), external iliac, obturator, periprostatic, and sacral (including presacral) nodes. Hypogastric and internal iliac name the same basin.
+* ''Distant (red):'' Common iliac, aortic/para-aortic, other retroperitoneal, inguinal/femoral, and supraclavicular nodes. Inguinal nodes remain nonregional despite their inferior location.
+* ''Board pearl:'' External iliac involvement → N1; common iliac involvement → M1a. “Pelvic adenopathy” is insufficiently specific: identify the actual nodal chain.
+* ''MRI assessment:'' Diffusion-weighted imaging (DWI) helps detect nodes; T1-weighted images help assess borders and signal characteristics. Suspicious features in the supplied radiology reference are round nodes with short axis ≥8 mm, oval nodes ≥10 mm, heterogeneous signal, or irregular margins.
+* ''Caveat:'' These are suspicion criteria, not proof of metastasis. Size alone poorly separates benign from malignant nodes; small nodes can harbor tumor. Anatomic location determines the staging category once involvement is established.
+
+<$image source="Prostate cancer lymph node staging anatomy.jpg" width="600" style="max-width:100%;height:auto;"/>
+
+Supplied illustration: green = regional; red = distant nodal stations. Credit: The Radiology Assistant.
+
+Sources: [[Radiology Assistant 2023, N-stage|https://radiologyassistant.nl/abdomen/prostate/prostate-cancer-pi-rads-v2-1-1]]; [[SEER 2026, Lymph Nodes|https://training.seer.cancer.gov/prostate/anatomy/lymph-nodes.html]]; [[SEER 2026, EOD Mets|https://training.seer.cancer.gov/prostate/staging/eod-mets.html]]; ASCO SEP 2026, ch. 14, Prostate Cancer Staging, p. 746 (PDF 753).
