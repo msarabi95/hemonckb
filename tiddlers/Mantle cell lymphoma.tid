@@ -11,3 +11,8 @@ type: text/vnd.tiddlywiki
 * ''Work-up:'' [[Work-up of mantle cell lymphoma]] — NCCN diagnostic, staging, and pretreatment assessment.
 
 Sources: ASH SAP, 9th ed., ch. 45, p. 560; ASCO SEP 2026, ch. 20, MCL (PDF p. 1166); NCCN B-Cell Lymphomas v4.2026 (May 20), MANT-1; Discussion MS-84–86; [[EHA–EU MCL 2025|https://doi.org/10.1002/hem3.70233]].
+
+<<rememberq "20260911051518001"
+    "MCL: classic immunophenotype (8 markers)?"
+    "CD19+, bright CD20+, CD5+, FMC7+, cyclin D1+, SOX11+; CD10−, CD23−"
+    reference:"Mantle cell lymphoma">>
