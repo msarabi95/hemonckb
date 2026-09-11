@@ -1,5 +1,5 @@
 created: 20260908223119101
-modified: 20260908223119101
+modified: 20260911021514305
 tags: [[Chronic myelomonocytic leukemia]]
 title: Risk stratification and transplantation in CMML
 type: text/vnd.tiddlywiki
@@ -11,3 +11,7 @@ type: text/vnd.tiddlywiki
 * ''Reassess:'' Worsening cytopenias, transfusion burden, blasts, proliferative symptoms, or organ involvement should trigger repeat risk assessment and reconsideration of [[Management of CMML]].
 
 Sources: [[Patnaik 2022|https://doi.org/10.3324/haematol.2021.279500]]; [[EBMT 2024|https://doi.org/10.1182/blood.2023023476]]; [[EBMT 2025, CMML section|https://pmc.ncbi.nlm.nih.gov/articles/PMC12583170/]].
+
+<<rememberq "20260911021353937"
+	"Scoring system to risk stratify CMML patients for consideration of transplant"
+	"CPSS-Mol (__C__MML-specific __P__rognostic __S__coring __S__ystem-__Mol__ecular)">>

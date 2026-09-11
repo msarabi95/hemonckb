@@ -1,5 +1,5 @@
 created: 20260908223119101
-modified: 20260908223119101
+modified: 20260911021922246
 tags: [[Chronic myelomonocytic leukemia]]
 title: Management of CMML
 type: text/vnd.tiddlywiki
@@ -13,3 +13,11 @@ type: text/vnd.tiddlywiki
 * ''Progression:'' After hypomethylating-agent failure, prioritize trials and reassess transplant eligibility. Blast transformation requires an acute-myeloid-leukemia strategy; venetoclax combinations are not established routine chronic-phase CMML care.
 
 Sources: [[Solary/Itzykson 2017|https://doi.org/10.1182/blood-2017-04-736421]]; [[Patnaik 2022|https://doi.org/10.3324/haematol.2021.279500]]; [[DACOTA 2023|https://pubmed.ncbi.nlm.nih.gov/36455187/]]; [[Patnaik/Tefferi 2024|https://doi.org/10.1002/ajh.27271]].
+
+<<rememberq "20260911021715466"
+	"Standard cytoreductive therapy in CMML patients with symptomatic leukocytosis, splenomegaly, or organ involvement."
+	"Hydroxyurea">>
+
+<<rememberq "20260911021828708"
+	"Oral treatment option in high-risk or cytopenic CMML"
+	"decitabine/cedazuridine (Inqovi)">>
