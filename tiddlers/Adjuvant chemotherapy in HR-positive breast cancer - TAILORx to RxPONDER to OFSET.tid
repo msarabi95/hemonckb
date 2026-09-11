@@ -1,0 +1,13 @@
+created: 20260911022848477
+modified: 20260911022848477
+tags: [[Breast oncology]]
+title: Adjuvant chemotherapy in HR-positive breast cancer - TAILORx to RxPONDER to OFSET
+type: text/vnd.tiddlywiki
+
+* ''Question:'' In hormone receptor-positive/HER2-negative [[breast cancer|Breast oncology]], does chemotherapy add benefit through cytotoxicity, ovarian function suppression (OFS), or both? Oncotype DX recurrence score (RS) and menopausal status frame the decision.
+* ''TAILORx → node-negative:'' Among 6,711 randomized women with RS 11–25, endocrine therapy (ET) alone was noninferior to chemotherapy + ET overall. Exploratory benefit in women ≤50 years with RS 16–25 raised the ovarian-suppression question; OFS use was uncommon. Age ≤50 is not synonymous with premenopause.
+* ''RxPONDER → 1–3 positive nodes, RS ≤25:'' Chemotherapy + ET versus ET alone yielded 5-year invasive disease-free survival of 91.3% versus 91.9% postmenopausally (no benefit), but 93.9% versus 89.0% premenopausally (hazard ratio 0.60). Benefit did not increase with RS within 0–25. This supports investigating an ovarian mechanism; it does not establish one.
+* ''OFSET (NRG-BR009) → isolate chemotherapy’s added value:'' Phase III; premenopausal patients with node-negative RS 21–25 or RS 16–20 plus high clinical risk, or 1–3 positive nodes with RS 0–25. Both arms receive OFS + an aromatase inhibitor; one adds chemotherapy. Target: 3,960; primary endpoint: invasive breast cancer–free survival. Results pending.
+* ''Clinical caveat:'' OFS + ET has not been proven equivalent to chemotherapy + ET in these trials. NCCN nevertheless lists OFS + ET as an alternative for selected premenopausal patients with these RS ranges.
+
+Sources: [[TAILORx 2018|https://doi.org/10.1056/NEJMoa1804710]]; [[RxPONDER 2021|https://doi.org/10.1056/NEJMoa2108873]]; [[NRG OFSET schema 2025|https://nrgoncology.org/wp-content/uploads/2025/09/04-NRG-BR009-PSC-Spotlight-7-25-25-SPuhalla.pdf]]; ASCO-SEP 2026, Breast Cancer, pp. 446–447; NCCN Breast Cancer v6.2026, BINV-N 2/5.
