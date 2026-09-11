@@ -1,5 +1,5 @@
 created: 20260911022848477
-modified: 20260911022848477
+modified: 20260911025446749
 tags: [[Breast oncology]]
 title: Adjuvant chemotherapy in HR-positive breast cancer - TAILORx to RxPONDER to OFSET
 type: text/vnd.tiddlywiki
@@ -11,3 +11,15 @@ type: text/vnd.tiddlywiki
 * ''Clinical caveat:'' OFS + ET has not been proven equivalent to chemotherapy + ET in these trials. NCCN nevertheless lists OFS + ET as an alternative for selected premenopausal patients with these RS ranges.
 
 Sources: [[TAILORx 2018|https://doi.org/10.1056/NEJMoa1804710]]; [[RxPONDER 2021|https://doi.org/10.1056/NEJMoa2108873]]; [[NRG OFSET schema 2025|https://nrgoncology.org/wp-content/uploads/2025/09/04-NRG-BR009-PSC-Spotlight-7-25-25-SPuhalla.pdf]]; ASCO-SEP 2026, Breast Cancer, pp. 446–447; NCCN Breast Cancer v6.2026, BINV-N 2/5.
+
+<<rememberq "20260911025446749"
+	"In TAILORx (HR+/HER2−, node-negative breast cancer), what was the chemotherapy result for Oncotype DX RS 11–25, and which subgroup showed exploratory benefit?"
+	"No benefit overall from adding chemotherapy to endocrine therapy; exploratory benefit in women ≤50 years with RS 16–25. Chemotherapy-induced ovarian suppression may contribute; age ≤50 does not establish premenopausal status.">>
+
+<<rememberq "20260911025446750"
+	"In RxPONDER (HR+/HER2− breast cancer, 1–3 positive nodes, RS ≤25), how did menopausal status affect chemotherapy benefit?"
+	"Postmenopausal: no benefit. Premenopausal: improved 5-year invasive disease-free survival (93.9% with chemotherapy + endocrine therapy versus 89.0% with endocrine therapy alone); benefit did not increase with RS within 0–25.">>
+
+<<rememberq "20260911025446751"
+	"How does OFSET test whether chemotherapy adds benefit beyond ovarian suppression in premenopausal HR+/HER2− breast cancer?"
+	"Both arms receive ovarian function suppression + an aromatase inhibitor; one adds chemotherapy. Eligibility: node-negative RS 21–25 or RS 16–20 with high clinical risk, or 1–3 positive nodes with RS 0–25. Chemotherapy omission is not yet proven equivalent.">>
