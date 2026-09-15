@@ -1,0 +1,15 @@
+created: 20260915045753907
+modified: 20260915045753907
+tags: $:/tags/Stylesheet
+title: $:/styles/WelcomeMissingLinks
+type: text/css
+
+.tc-tiddler-frame[data-tiddler-title="Welcome"] .tc-tiddlylink-missing {
+  color: #888888;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.tc-tiddler-frame[data-tiddler-title="Welcome"] .tc-tiddlylink-missing:hover {
+  text-decoration: underline;
+}
