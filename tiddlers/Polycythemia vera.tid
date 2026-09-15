@@ -1,0 +1,30 @@
+created: 20260914135246209
+modified: 20260915044709001
+tags: [[Myeloproliferative neoplasms]]
+title: Polycythemia vera
+type: text/vnd.tiddlywiki
+
+* ''Foundation:'' Maintain hematocrit <45% in both sexes, use low-dose aspirin (81–100 mg/day) unless contraindicated, and control cardiovascular risk. Phlebotomy remains foundational; do not routinely replace iron because this can accelerate erythrocytosis.
+* ''Risk:'' NCCN low risk = age <60 with no prior thrombosis; high risk = age ≥60 or previous thrombosis. These categories predict thrombosis, not the same outcome as survival models. ASCO-SEP's figure and prose have inconsistent age boundaries; use NCCN's explicit threshold.
+* ''High risk:'' Add cytoreduction. Hydroxyurea or ropeginterferon alfa-2b are preferred; peginterferon alfa-2a is another option. Choose interferon thoughtfully in younger patients; psychiatric, autoimmune, and hepatic disease affect suitability.
+* ''Low risk can still need treatment:'' Frequent/intolerable phlebotomy, symptomatic splenomegaly, persistent disease symptoms, progressive leukocytosis/thrombocytosis, or new thrombosis/major bleeding support cytoreduction. NCCN prefers ropeginterferon when such treatment is required.
+* ''After hydroxyurea failure:'' Ruxolitinib is a preferred option for resistance/intolerance; an unused interferon is another option.
+* ''August 2026 update:'' FDA approved rusfertide for adult PV erythrocytosis. This hepcidin mimetic controls red-cell production and reduces phlebotomy requirements; its evidence does not establish prevention of thrombosis or transformation. This approval postdates the supplied guideline.
+
+Sources: ASH-SAP, 9th ed. (2025), ch. 37, pp. 450–453; ASCO-SEP 2026, ch. 19, pp. 1073–1074; NCCN Myeloproliferative Neoplasms v2.2026 (June 16), MPN-2, PV-1–2; Discussion MS-39, MS-41–42; [[FDA rusfertide update|https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder]].
+
+<<rememberq "20260914135246213"
+    "PV: hematocrit target?"
+    "<45% in both sexes.">>
+
+<<rememberq "20260914135246214"
+    "PV: high thrombosis risk?"
+    "Age ≥60 OR prior thrombosis.">>
+
+<<rememberq "20260914135246215"
+    "PV: preferred JAK inhibitor after hydroxyurea failure?"
+    "Ruxolitinib.">>
+
+<<rememberq "20260914135246216"
+    "Rusfertide: mechanism in PV?"
+    "Hepcidin mimic; restricts iron available for erythropoiesis.">>

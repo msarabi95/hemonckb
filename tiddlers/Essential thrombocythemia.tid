@@ -1,0 +1,28 @@
+created: 20260914135246209
+modified: 20260915044709001
+tags: [[Myeloproliferative neoplasms]]
+title: Essential thrombocythemia
+type: text/vnd.tiddlywiki
+
+* ''Decision:'' Use revised IPSET-thrombosis to guide thrombosis prevention. Platelet count alone does not define thrombotic risk. Marrow morphology distinguishes true ET from prefibrotic [[Primary myelofibrosis]].
+* ''Very low:'' Age ≤60, JAK2-negative, no thrombosis history: observation; aspirin for microvascular symptoms.
+* ''Low:'' Age ≤60, JAK2-positive, no thrombosis: usually low-dose aspirin.
+* ''Intermediate:'' Age >60, JAK2-negative, no thrombosis: individualized aspirin/observation; age alone does not mandate cytoreduction.
+* ''High:'' Previous thrombosis at any age, or age >60 plus JAK2 mutation: aspirin plus cytoreduction, unless bleeding contraindicates aspirin. Address cardiovascular risk in every group.
+* ''Cytoreduction:'' Hydroxyurea is NCCN-preferred initial therapy; peginterferon alfa-2a and anagrelide are alternatives. Peginterferon is particularly relevant when pregnancy requires cytoreduction. Lower-risk patients may need treatment for acquired von Willebrand syndrome, major bleeding, progressive counts/splenomegaly, or aspirin-refractory symptoms.
+* ''Bleeding pearl:'' With extreme thrombocytosis (especially >1,000 × 10^9/L), evaluate von Willebrand activity before aspirin; clinically significant acquired deficiency favors withholding aspirin and lowering platelets.
+* ''2026 update:'' Ropeginterferon is NCCN category 1/preferred subsequent therapy after inadequate response; FDA approved adult ET in August 2026. Supporting SURPASS-ET evidence involved hydroxyurea-resistant/intolerant patients.
+
+Sources: ASH-SAP, 9th ed. (2025), ch. 37, pp. 453–455; ASCO-SEP 2026, ch. 19, pp. 1071–1074; NCCN Myeloproliferative Neoplasms v2.2026 (June 16), MPN-2, ET-1–3; Discussion MS-40–43; [[FDA ET update|https://content.govdelivery.com/accounts/USFDA/bulletins/427b31d]].
+
+<<rememberq "20260914135246210"
+    "ET: high thrombosis risk?"
+    "Prior thrombosis OR age >60 plus JAK2 mutation.">>
+
+<<rememberq "20260914135246211"
+    "ET: very-low-risk aspirin indication?"
+    "Microvascular symptoms.">>
+
+<<rememberq "20260914135246212"
+    "ET: extreme thrombocytosis bleeding mechanism?"
+    "Acquired von Willebrand syndrome.">>

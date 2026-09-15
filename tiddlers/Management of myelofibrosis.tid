@@ -1,0 +1,30 @@
+created: 20260914135246209
+modified: 20260915044926683
+tags: [[Primary myelofibrosis]]
+title: Management of myelofibrosis
+type: text/vnd.tiddlywiki
+
+* ''Two decisions:'' In [[Primary myelofibrosis]] or post-PV/ET MF, assess transplantation and symptom-directed therapy in parallel. Allogeneic transplantation is the only potentially curative treatment; JAK inhibition can bridge symptomatic patients to transplant.
+* ''Observe:'' Asymptomatic lower-risk disease can be monitored, generally every 3–6 months. Follow counts, transfusions, spleen, and MPN symptom score; repeat marrow/genetics for suspected progression.
+* ''Spleen/constitutional symptoms:'' Ruxolitinib or fedratinib are major options when platelets ≥50 × 10^9/L. JAK2 mutation is not required for benefit. Ruxolitinib may worsen anemia/thrombocytopenia; avoid abrupt withdrawal. Fedratinib requires thiamine assessment and supplementation because of Wernicke risk.
+* ''Severe thrombocytopenia:'' With platelets <50 × 10^9/L, pacritinib is NCCN's preferred category 1 option for higher-risk disease when transplantation is unavailable; momelotinib is category 2B here.
+* ''Anemia plus symptoms:'' Momelotinib is preferred/category 1 in the anemia pathway. Correct bleeding, nutritional deficiencies, and hemolysis; transfuse as needed. If spleen/symptoms are already controlled, consider adding an erythropoiesis-stimulating agent when serum EPO <500 mU/mL, danazol, or luspatercept. Luspatercept is guideline-listed off-label for MF.
+* ''Progression:'' JAK-inhibitor failure prompts reassessment, another appropriate JAK inhibitor, trials, and transplant review. Blood/marrow blasts 10–19% define accelerated phase; ≥20% defines blast phase and requires an advanced-MPN/AML strategy.
+
+Sources: ASH-SAP, 9th ed. (2025), ch. 37, pp. 459–461; ASCO-SEP 2026, ch. 19, pp. 1074–1076; NCCN Myeloproliferative Neoplasms v2.2026 (June 16), MF-1–3, MPN-G, MPN-AP/BP-1; Discussion MS-13–14, MS-24–27, MS-30–32; [[FDA fedratinib label, July 2026|https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/212327s011lbl.pdf]].
+
+<<rememberq "20260914135246220"
+    "Higher-risk MF: preferred JAK inhibitor, platelets <50 × 10^9/L?"
+    "Pacritinib when transplantation is not feasible.">>
+
+<<rememberq "20260914135246221"
+    "MF: JAK inhibitor favoring anemia benefit?"
+    "Momelotinib.">>
+
+<<rememberq "20260914135246222"
+    "Fedratinib: vitamin to assess/supplement?"
+    "Thiamine (B1).">>
+
+<<rememberq "20260914135246223"
+    "MF anemia: ESA serum EPO threshold?"
+    "<500 mU/mL.">>

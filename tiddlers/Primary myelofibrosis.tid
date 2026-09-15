@@ -1,0 +1,18 @@
+created: 20260914135246209
+modified: 20260915044926684
+tags: [[Myeloproliferative neoplasms]]
+title: Primary myelofibrosis
+type: text/vnd.tiddlywiki
+
+* ''Decision:'' Estimate survival/progression risk to guide transplantation; assess symptoms separately to select [[Management of myelofibrosis]]. Obtain marrow, cytogenetics, and molecular profiling. Teardrops, leukoerythroblastosis, anemia, and splenomegaly suggest overt disease; prefibrotic disease can mimic [[Essential thrombocythemia]].
+* ''Preferred models:'' MIPSS-70 or MIPSS-70+ v2.0; the latter integrates clinical features, mutations, and karyotype. Use DIPSS when recent karyotype is unavailable, or DIPSS-plus when molecular data are unavailable.
+* ''DIPSS bedside recall:'' Hemoglobin <10 g/dL earns 2 points. Age >65, WBC >25 × 10^9/L, circulating blasts ≥1%, and constitutional symptoms each earn 1. Totals: 0 low; 1–2 intermediate-1; 3–4 intermediate-2; 5–6 high. It can be recalculated during follow-up.
+* ''DIPSS-plus:'' Convert DIPSS category to 0/1/2/3, then add one each for platelets <100 × 10^9/L, red-cell transfusion need, and unfavorable karyotype; do not add these directly to raw DIPSS points.
+* ''Molecular refinement:'' MIPSS-70+ v2.0 includes ASXL1, EZH2, SRSF2, IDH1/2, and U2AF1 Q157 as high-risk mutations. Absence of type-1 CALR, adverse karyotype, anemia, blasts, and symptoms also contribute; use the weighted calculator.
+* ''Transplant:'' Refer early for intermediate/adverse disease; higher-risk patients generally warrant allogeneic transplantation assessment. Selected lower-risk patients with transfusion dependence, adverse genetics, or thrombocytopenia also merit referral.
+
+Sources: ASH-SAP, 9th ed. (2025), ch. 37, pp. 456–459; ASCO-SEP 2026, ch. 19, pp. 1071–1074, 1076; NCCN Myeloproliferative Neoplasms v2.2026 (June 16), MPN-2, MF-A 2–4, MF-C; Discussion MS-9–10, MS-24–25.
+
+<<rememberq "20260914135246217"
+    "PMF DIPSS: double-weighted variable?"
+    "Hemoglobin <10 g/dL.">>
