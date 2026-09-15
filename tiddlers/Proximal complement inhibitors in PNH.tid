@@ -1,0 +1,17 @@
+created: 20260915144231757
+modified: 20260915144544629
+tags: [[Paroxysmal nocturnal hemoglobinuria]]
+title: Proximal complement inhibitors in PNH
+type: text/vnd.tiddlywiki
+
+* ''Key distinction:'' In [[PNH|Paroxysmal nocturnal hemoglobinuria]], ''proximal'' complement inhibition reduces C3-fragment coating of red cells (opsonization), addressing ''extravascular'' as well as ''intravascular hemolysis''.
+* ''Terminal blockade:'' [[Eculizumab and ravulizumab|Eculizumab and ravulizumab in PNH]] both block C5 cleavage and downstream C5b–9 membrane attack complex formation, preventing intravascular lysis. Ravulizumab acts longer, not earlier in the cascade. ''Treatment-emergent (iatrogenic) extravascular hemolysis'' is largely unmasked by this protection: surviving red cells accumulate C3 fragments and undergo macrophage clearance in the spleen/liver.
+* ''Earlier blockade:'' Inhibiting C3 directly or alternative-pathway factors B/D reduces C3 activation/amplification and opsonization, while limiting downstream terminal activation. This can improve residual anemia and reduce transfusions.
+* ''Approved proximal options in adults:''
+** ''Pegcetacoplan:'' Subcutaneous C3/C3b inhibitor; monotherapy controls both forms of hemolysis.
+** ''Iptacopan:'' Oral factor B inhibitor; monotherapy controls both forms of hemolysis.
+** ''Danicopan:'' Oral factor D inhibitor; ''add-on to eculizumab or ravulizumab'' for extravascular hemolysis. Continue C5 blockade for intravascular control; not established as monotherapy.
+* ''Coombs conversion:'' Usually Coombs-negative untreated PNH can become ''direct antiglobulin test (DAT)/direct Coombs-positive for C3, typically IgG-negative'', during eculizumab/ravulizumab therapy. This reflects complement coating, not a new autoantibody. Conversion is not universal; DAT positivity alone does not establish clinically significant hemolysis.
+* ''Caveats:'' Crovalimab is newer but still targets C5. Complement inhibitors do not correct marrow failure; vaccination against encapsulated bacteria and vigilance for breakthrough hemolysis remain essential.
+
+Sources: [[Hill 2010|https://pubmed.ncbi.nlm.nih.gov/20145265/]]; ASH SAP, 9th ed., ch. 14, pp. 168–170; [[Empaveli prescribing information, §12.1|https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/215014s011lbl.pdf]]; [[Fabhalta prescribing information, §12.1|https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a76b5845-6e21-4d3b-ad07-cd8df1b60bee&version=6]]; [[FDA: Voydeya|https://www.fda.gov/drugs/drug-trials-snapshots/drug-trials-snapshots-voydeya]].

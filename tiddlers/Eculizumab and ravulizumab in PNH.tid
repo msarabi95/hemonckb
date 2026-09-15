@@ -1,0 +1,30 @@
+created: 20260915143910079
+modified: 20260915143910079
+tags: [[Paroxysmal nocturnal hemoglobinuria]]
+title: Eculizumab and ravulizumab in PNH
+type: text/vnd.tiddlywiki
+
+* ''Role:'' Eculizumab and ravulizumab inhibit complement C5 in [[paroxysmal nocturnal hemoglobinuria|Paroxysmal nocturnal hemoglobinuria]] (PNH), preventing membrane attack complex formation. Use for clinically significant hemolysis, hemolysis-related symptoms, or PNH-associated thrombosis.
+* ''Hemolysis and symptoms:'' Both markedly reduce ''intravascular hemolysis'' and lactate dehydrogenase (LDH), decrease transfusion needs, and improve fatigue and quality of life. Hemoglobinuria and hemolysis-related abdominal pain, dysphagia, and erectile dysfunction can improve.
+* ''Thrombosis:'' Effective C5 blockade reduces thrombotic risk. Direct evidence is strongest for eculizumab: a pooled before–after analysis of 195 PNH trial participants found an 85% lower thromboembolism rate during treatment (1.07 versus 7.37 events/100 patient-years). This was not a randomized thrombosis comparison; do not assign that numerical reduction to ravulizumab. Acute thrombosis still requires anticoagulation.
+* ''Choice:'' Ravulizumab is longer acting, with less frequent infusions. In the 26-week randomized 301 trial in complement-inhibitor-naive adults, it was noninferior to eculizumab for hemolysis control, transfusion avoidance, and fatigue improvement.
+* ''Limits:'' Neither cures the PNH clone or marrow failure; C3-mediated ''extravascular hemolysis'' may persist despite controlled intravascular hemolysis.
+* ''Safety:'' Give MenACWY and MenB vaccination, ideally ≥2 weeks before treatment; urgent initiation requires antibiotic prophylaxis. Vaccination does not eliminate meningococcal risk.
+
+Sources: ASH SAP, 9th ed., ch. 14, pp. 167–168; [[Hillmen 2007|https://pubmed.ncbi.nlm.nih.gov/17702897/]]; [[Lee 2019 (301)|https://pubmed.ncbi.nlm.nih.gov/30510080/]]; [[CDC 2026|https://www.cdc.gov/meningococcal/hcp/clinical-guidance/complement-inhibitor.html]].
+
+<<rememberq "20260915143910079"
+    "PNH: eculizumab/ravulizumab target?"
+    "Complement C5">>
+
+<<rememberq "20260915143910080"
+    "PNH: C5 blockade suppresses which hemolysis?"
+    "Intravascular hemolysis">>
+
+<<rememberq "20260915143910081"
+    "PNH: C5 blockade’s thrombosis effect?"
+    "Reduces thrombotic risk">>
+
+<<rememberq "20260915143910082"
+    "PNH: hemolysis persisting despite C5 blockade?"
+    "C3-mediated extravascular hemolysis">>
