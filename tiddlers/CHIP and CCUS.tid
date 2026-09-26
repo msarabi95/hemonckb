@@ -1,0 +1,37 @@
+created: 20260921140253367
+modified: 20260921140331733
+tags: [[Myeloid malignancies]]
+title: CHIP and CCUS
+type: text/vnd.tiddlywiki
+
+* ''Distinction:'' Both are clonal precursor states; neither meets criteria for a myeloid neoplasm.
+* ''CHIP:'' Clonal hematopoiesis of indeterminate potential; myeloid-driver mutation, variant allele fraction (VAF) ≥2%.
+** No unexplained cytopenia; implications include myeloid malignancy and cardiovascular risk.
+** Confirm blood counts, differential, smear, and mutation pathogenicity; review prior cytotoxic exposure.
+** Normal counts and low-risk features generally do not require marrow biopsy.
+* ''CCUS:'' Clonal cytopenia of undetermined significance; clonality with persistent, otherwise unexplained cytopenia.
+** Exclude nutritional deficiencies, medications, infection, renal disease, and other secondary causes.
+** Obtain marrow aspirate/biopsy, cytogenetics, and myeloid sequencing to exclude myelodysplastic neoplasms (MDS).
+** MDS-defining genetic abnormalities may establish MDS despite absent diagnostic dysplasia.
+* ''Risk stratification:'' Use the clonal hematopoiesis risk score (CHRS) for either condition.
+** Higher risk: cytopenia, multiple mutations, larger clones, spliceosome mutations, and abnormal red-cell indices.
+** Isolated DNMT3A generally carries lower risk; CCUS progression risk remains heterogeneous.
+* ''CHIP management:'' Reassure low-risk patients; individualize blood-count follow-up to risk and clinical change.
+** Address smoking, hypertension, lipids, and diabetes; CHIP alone does not mandate aspirin.
+* ''CCUS management:'' Observe; higher-risk cases need blood counts approximately every 3–6 months.
+** Stable lower-risk cases may need less frequent surveillance; repeat marrow if counts worsen.
+** No established preventive clone-directed therapy; consider clinical trials for high-risk CCUS.
+
+Sources: ASH-SAP, 9th ed. (2025), ch. 40, pp. 485–487; NCCN Myelodysplastic Syndromes v3.2026 (January 12), MDS-2; Discussion MS-7–8; [[ICC 2022|https://doi.org/10.1182/blood.2022015850]]; [[Weeks 2023|https://doi.org/10.1056/EVIDoa2200310]]; [[ASH precursor conditions 2022|https://www.hematology.org/education/trainees/fellows/hematopoiesis/2022/myeloid-malignancy-precursor-conditions]].
+
+<<rememberq "20260921140253368"
+    "CHIP: minimum mutation VAF?"
+    "≥2% variant allele fraction.">>
+
+<<rememberq "20260921140253369"
+    "CCUS versus CHIP: distinguishing feature?"
+    "Persistent, otherwise unexplained cytopenia.">>
+
+<<rememberq "20260921140253370"
+    "Suspected CCUS: exclude MDS how?"
+    "Bone marrow evaluation, including morphology and genetic studies.">>
