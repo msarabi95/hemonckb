@@ -1,5 +1,5 @@
 created: 20260926165854872
-modified: 20260926174613288
+modified: 20260926180259577
 tags: [[Multiple myeloma]]
 title: Lenalidomide - adverse effects and precautions
 type: text/vnd.tiddlywiki
@@ -31,3 +31,39 @@ In [[multiple myeloma|Multiple myeloma]], prevent pregnancy/thrombosis and monit
 ''Dosing precaution:'' Renally cleared; monitor renal function and adjust dosing to creatinine clearance/treatment setting.
 
 Sources: [[Merz 2020|https://doi.org/10.1007/s00277-020-04023-4]]; [[van de Donk 2012|https://doi.org/10.2147/CMAR.S27087]]; [[Delforge 2017|https://doi.org/10.1182/blood-2017-01-725705]]; [[Ludwig 2018|https://doi.org/10.1038/s41375-018-0040-1]]; [[GoodRx|https://www.goodrx.com/lenalidomide/common-side-effects]]; [[IMF|https://www.myeloma.org/revlimid-lenalidomide]]; [[US label, 3/2023, §§2,5|https://packageinserts.bms.com/pi/pi_revlimid.pdf]]; NCCN Multiple Myeloma v1.2027 (9/9/2026), MYEL-L 1–3, Discussion MS-25,63; ASH SAP 9th ed., ch.48, p.620; ASCO SEP 2026, ch.21, p.1220.
+
+<<rememberq "20260926180130328"
+    "Lenalidomide + dexamethasone: thrombosis effect?"
+    "Increased venous and arterial thrombosis risk">>
+
+<<rememberq "20260926180130329"
+    "Myeloma: thrombosis risk scores (2)?"
+    "IMPEDE VTE and SAVED">>
+
+<<rememberq "20260926180130330"
+    "Lenalidomide: lower-risk thrombosis prophylaxis?"
+    "Aspirin, if bleeding risk permits">>
+
+<<rememberq "20260926175652968"
+    "Lenalidomide: higher-risk thrombosis prophylaxis?"
+    "Anticoagulant prophylaxis; consider bleeding, platelets, renal function, interactions">>
+
+<<rememberq "20260926180130332"
+    "Lenalidomide: embryo-fetal risk mitigation program?"
+    "REMS: Risk Evaluation and Mitigation Strategy">>
+
+<<rememberq "20260926180130333"
+    "Lenalidomide REMS: reproductive safeguards (4)?"
+    "Pregnancy testing; contraception; condoms; blood/sperm donation restrictions">>
+
+<<rememberq "20260926175652967"
+    "Lenalidomide: persistent diarrhea—medication to consider?"
+    "Colesevelam for suspected bile-acid malabsorption; exclude other causes">>
+
+<<rememberq "20260926180130335"
+    "Prolonged lenalidomide: stem-cell mobilization effect?"
+    "Can impair mobilization; plan collection early">>
+
+<<rememberq "20260926180130336"
+    "Lenalidomide: clearance mechanism?"
+    "Renal clearance">>
