@@ -1,0 +1,28 @@
+created: 20260926165854872
+modified: 20260926165930815
+tags: [[Multiple myeloma]]
+title: Lenalidomide - adverse effects and precautions
+type: text/vnd.tiddlywiki
+
+* ''Priorities:'' Prevent pregnancy and thrombosis; monitor cytopenias during [[multiple myeloma|Multiple myeloma]] therapy.
+* ''Common:'' Fatigue, diarrhea/constipation, rash, muscle cramps, edema, and nausea.
+** Neuropathy is less prominent than with thalidomide or bortezomib.
+* ''Cytopenias:'' Neutropenia, thrombocytopenia, anemia; interrupt/reduce dosing for significant toxicity.
+** Fever or bleeding warrants urgent assessment.
+* ''Monitoring:'' Check blood counts, renal function, liver enzymes, and thyroid function.
+** Hepatotoxicity and thyroid dysfunction can occur.
+** Renally cleared: adjust dosing to creatinine clearance and treatment setting.
+* ''Thrombosis:'' Venous and arterial events increase, particularly with dexamethasone.
+** Use IMPEDE/SAVED risk assessment: aspirin for lower risk; anticoagulant prophylaxis for higher risk.
+** Account for bleeding, platelet count, renal function, and interactions.
+** New dyspnea, chest pain, or unilateral swelling requires urgent evaluation.
+* ''Pregnancy:'' Contraindicated; follow Risk Evaluation and Mitigation Strategy (REMS) requirements.
+** Requirements cover pregnancy-testing, contraception, condoms, and blood/sperm donation restrictions.
+* ''Delayed diarrhea:'' Consider bile-acid malabsorption after excluding infection and other causes.
+** Bile-acid sequestrants (e.g., colesevelam) can help persistent symptoms.
+* ''Rash:'' Mild reactions: antihistamines/topical steroids; consider interruption for moderate/severe rash.
+** Permanently discontinue for blistering/exfoliative rash, severe hypersensitivity, or severe systemic skin reactions.
+* ''Late complications:'' Second primary malignancies increase, especially after melphalan; maintenance benefits generally outweigh risk.
+** Prolonged exposure can impair stem-cell mobilization; plan collection early.
+
+Sources: [[Merz 2020|https://doi.org/10.1007/s00277-020-04023-4]]; [[van de Donk 2012|https://doi.org/10.2147/CMAR.S27087]]; [[Delforge 2017|https://doi.org/10.1182/blood-2017-01-725705]]; [[Ludwig 2018|https://doi.org/10.1038/s41375-018-0040-1]]; [[GoodRx|https://www.goodrx.com/lenalidomide/common-side-effects]]; [[IMF|https://www.myeloma.org/revlimid-lenalidomide]]; [[US label, 3/2023, §§2,5|https://packageinserts.bms.com/pi/pi_revlimid.pdf]]; NCCN Multiple Myeloma v1.2027 (9/9/2026), MYEL-L 1–3, Discussion MS-25,63; ASH SAP 9th ed., ch.48, p.620; ASCO SEP 2026, ch.21, p.1220.
