@@ -1,5 +1,5 @@
 created: 20260926165854872
-modified: 20260926165930815
+modified: 20260926171656481
 tags: [[Multiple myeloma]]
 title: Lenalidomide - adverse effects and precautions
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ type: text/vnd.tiddlywiki
 ** Hepatotoxicity and thyroid dysfunction can occur.
 ** Renally cleared: adjust dosing to creatinine clearance and treatment setting.
 * ''Thrombosis:'' Venous and arterial events increase, particularly with dexamethasone.
-** Use IMPEDE/SAVED risk assessment: aspirin for lower risk; anticoagulant prophylaxis for higher risk.
+** Use [[IMPEDE|IMPEDE VTE score]]/[[SAVED|SAVED score]] risk assessment: aspirin for lower risk; anticoagulant prophylaxis for higher risk.
 ** Account for bleeding, platelet count, renal function, and interactions.
 ** New dyspnea, chest pain, or unilateral swelling requires urgent evaluation.
 * ''Pregnancy:'' Contraindicated; follow Risk Evaluation and Mitigation Strategy (REMS) requirements.

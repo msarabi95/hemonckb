@@ -1,0 +1,37 @@
+created: 20260926171656481
+modified: 20260926171732297
+tags: [[Multiple myeloma]]
+title: IMPEDE VTE score
+type: text/vnd.tiddlywiki
+
+* ''Role:'' Estimates venous thromboembolism (VTE) risk in treated [[multiple myeloma|Multiple myeloma]], with/without immunomodulatory drugs.
+* ''Scoring:'' Sum applicable points; absent factors score zero. Select one dexamethasone/prophylaxis category each.
+
+|!Component|!Points|
+|Immunomodulatory drug (e.g., lenalidomide)|+4|
+|Body mass index ≥25 kg/m²|+1|
+|Pelvic, hip, or femur fracture|+4|
+|Erythropoiesis-stimulating agent|+1|
+|Doxorubicin|+3|
+|Dexamethasone: >0–160 mg/month; >160 mg/month|+2; +4|
+|Asian/Pacific Islander race/ethnicity|−3|
+|Previous VTE|+5|
+|Tunneled line/central venous catheter|+2|
+|Existing aspirin or prophylactic low-molecular-weight heparin (LMWH)|−3|
+|Existing therapeutic LMWH or warfarin|−4|
+
+* ''Definition caveats:'' Original fracture window: 30 days before diagnosis through treatment initiation.
+** NCCN expands the doxorubicin item to doxorubicin ''or multiagent chemotherapy''.
+** Prophylaxis points reflect existing treatment; do not add both negative categories.
+* ''Interpretation:'' Six-month VTE rates below come from the retrospective 4,446-patient derivation cohort.
+
+|!Total|!Risk|!Six-month VTE|!NCCN prophylaxis|
+|≤3|Low|3.3%|Aspirin 81–325 mg daily|
+|4–7|Intermediate|8.3%|Anticoagulant prophylaxis|
+|≥8|High|15.2%|Anticoagulant prophylaxis|
+
+* ''Anticoagulant options:'' LMWH, apixaban, or rivaroxaban; assess bleeding, renal function, platelets, and interactions.
+** Continue anticoagulation already indicated for another condition; a low score does not negate it.
+* ''Caveat:'' Historical cohorts; contemporary regimen-specific risk may differ. Compare [[SAVED score]] for immunomodulatory therapy.
+
+Sources: [[Sanfilippo 2019, Tables 3–4|https://doi.org/10.1002/ajh.25603]]; NCCN Multiple Myeloma v1.2027 (9/9/2026), MYEL-L 1–3, Discussion MS-25; ASH SAP 9th ed., ch.48, p.620; ASCO SEP 2026, ch.21, p.1220.

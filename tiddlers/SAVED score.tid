@@ -1,0 +1,34 @@
+created: 20260926171656481
+modified: 20260926171732298
+tags: [[Multiple myeloma]]
+title: SAVED score
+type: text/vnd.tiddlywiki
+
+* ''Role:'' Estimates venous thromboembolism (VTE) risk in [[multiple myeloma|Multiple myeloma]] receiving immunomodulatory drugs.
+** Examples include [[lenalidomide|Lenalidomide - adverse effects and precautions]], thalidomide, and pomalidomide.
+* ''Scoring:'' Sum five components; absent factors score zero. Choose one dexamethasone category.
+
+|!Letter|!Component|!Points|
+|S|Surgery within preceding 90 days|+2|
+|A|Asian race|−3|
+|V|Previous VTE|+3|
+|E|Eighty years or older (≥80)|+1|
+|D|Dexamethasone <120 mg/cycle, including none|0|
+|D|Dexamethasone 120–160 mg/cycle|+1|
+|D|Dexamethasone >160 mg/cycle|+2|
+
+* ''Dose convention:'' Use total dexamethasone per treatment cycle, not the individual weekly dose.
+* ''Interpretation:'' Use the summed score; negative totals are possible.
+
+|!Total|!Risk|!NCCN prophylaxis|
+|<2|Low|Aspirin 81–325 mg daily|
+|≥2|High|Anticoagulant prophylaxis|
+
+* ''Anticoagulant options:'' Low-molecular-weight heparin, apixaban, or rivaroxaban; assess bleeding and renal function.
+** Consider platelet count and interactions; continue therapeutic anticoagulation when independently indicated.
+* ''Example:'' Age 82 (+1) plus dexamethasone 160 mg/cycle (+1) totals 2: high risk.
+* ''Limitations:'' Retrospectively derived in 2,397 older, newly diagnosed patients starting immunomodulatory therapy.
+** Not a general cancer score; low risk does not mean zero risk.
+* ''Compare:'' [[IMPEDE VTE score]] covers broader myeloma treatment and incorporates existing thromboprophylaxis.
+
+Sources: [[Li 2019|https://doi.org/10.6004/jnccn.2018.7273]]; NCCN Multiple Myeloma v1.2027 (9/9/2026), MYEL-L 1–3, Discussion MS-25; ASH SAP 9th ed., ch.48, p.620; ASCO SEP 2026, ch.21, p.1220.
