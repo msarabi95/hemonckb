@@ -1,28 +1,33 @@
 created: 20260926165854872
-modified: 20260926171656481
+modified: 20260926173837549
 tags: [[Multiple myeloma]]
 title: Lenalidomide - adverse effects and precautions
 type: text/vnd.tiddlywiki
 
-* ''Priorities:'' Prevent pregnancy and thrombosis; monitor cytopenias during [[multiple myeloma|Multiple myeloma]] therapy.
-* ''Common:'' Fatigue, diarrhea/constipation, rash, muscle cramps, edema, and nausea.
-** Neuropathy is less prominent than with thalidomide or bortezomib.
-* ''Cytopenias:'' Neutropenia, thrombocytopenia, anemia; interrupt/reduce dosing for significant toxicity.
-** Fever or bleeding warrants urgent assessment.
-* ''Monitoring:'' Check blood counts, renal function, liver enzymes, and thyroid function.
-** Hepatotoxicity and thyroid dysfunction can occur.
-** Renally cleared: adjust dosing to creatinine clearance and treatment setting.
-* ''Thrombosis:'' Venous and arterial events increase, particularly with dexamethasone.
-** Use [[IMPEDE|IMPEDE VTE score]]/[[SAVED|SAVED score]] risk assessment: aspirin for lower risk; anticoagulant prophylaxis for higher risk.
-** Account for bleeding, platelet count, renal function, and interactions.
-** New dyspnea, chest pain, or unilateral swelling requires urgent evaluation.
-* ''Pregnancy:'' Contraindicated; follow Risk Evaluation and Mitigation Strategy (REMS) requirements.
-** Requirements cover pregnancy-testing, contraception, condoms, and blood/sperm donation restrictions.
-* ''Delayed diarrhea:'' Consider bile-acid malabsorption after excluding infection and other causes.
-** Bile-acid sequestrants (e.g., colesevelam) can help persistent symptoms.
-* ''Rash:'' Mild reactions: antihistamines/topical steroids; consider interruption for moderate/severe rash.
-** Permanently discontinue for blistering/exfoliative rash, severe hypersensitivity, or severe systemic skin reactions.
-* ''Late complications:'' Second primary malignancies increase, especially after melphalan; maintenance benefits generally outweigh risk.
-** Prolonged exposure can impair stem-cell mobilization; plan collection early.
+In [[multiple myeloma|Multiple myeloma]], prevent pregnancy/thrombosis and monitor cytopenias.
+
+!! Most serious / long-term effects
+
+|!Toxicity/complication|!Precaution or action|
+|Venous/arterial thrombosis|Risk increases with dexamethasone. [[IMPEDE|IMPEDE VTE score]]/[[SAVED|SAVED score]]: aspirin for lower risk; anticoagulant prophylaxis for higher risk. Consider bleeding, platelets, renal function, interactions. New dyspnea/chest pain/unilateral swelling: urgent assessment.|
+|Embryo-fetal toxicity|Pregnancy contraindicated. Risk Evaluation and Mitigation Strategy (REMS): pregnancy-testing, contraception, condoms, blood/sperm donation restrictions.|
+|Severe skin reactions/hypersensitivity|Permanently discontinue for blistering/exfoliative rash, severe systemic skin reactions, or severe hypersensitivity.|
+|Second primary malignancies|Increased risk, especially after melphalan (confounding?); maintenance benefits generally outweigh risk.|
+
+!! Dose-limiting toxicities
+
+|!Toxicity|!Management|
+|Neutropenia, thrombocytopenia, anemia|Monitor blood counts; interrupt/reduce dosing for significant toxicity. Fever/bleeding: urgent assessment.|
+|Persistent diarrhea|Exclude infection/other causes; consider bile-acid malabsorption and colesevelam.|
+|Rash|<ul><li>Mild: antihistamines/topical steroids.</li><li>Moderate: consider interruption.</li><li>Severe: consider interruption; permanently discontinue for blistering/exfoliative or severe systemic reactions (see above).</li></ul>|
+
+!! Other common and less common toxicities
+
+|!Frequency|!Toxicity/precaution|
+|Common|<ul><li>Fatigue</li><li>Constipation</li><li>Nausea</li><li>Muscle cramps</li><li>Edema</li><li>Diarrhea and rash: see above.</li></ul>|
+|Less common|<ul><li>Hepatotoxicity: monitor liver enzymes.</li><li>Thyroid dysfunction: monitor thyroid function.</li><li>Peripheral neuropathy: less prominent than with thalidomide/bortezomib.</li></ul>|
+|Impaired stem cell mobilization|Prolonged exposure can impair collection; plan early.|
+
+''Dosing precaution:'' Renally cleared; monitor renal function and adjust dosing to creatinine clearance/treatment setting.
 
 Sources: [[Merz 2020|https://doi.org/10.1007/s00277-020-04023-4]]; [[van de Donk 2012|https://doi.org/10.2147/CMAR.S27087]]; [[Delforge 2017|https://doi.org/10.1182/blood-2017-01-725705]]; [[Ludwig 2018|https://doi.org/10.1038/s41375-018-0040-1]]; [[GoodRx|https://www.goodrx.com/lenalidomide/common-side-effects]]; [[IMF|https://www.myeloma.org/revlimid-lenalidomide]]; [[US label, 3/2023, §§2,5|https://packageinserts.bms.com/pi/pi_revlimid.pdf]]; NCCN Multiple Myeloma v1.2027 (9/9/2026), MYEL-L 1–3, Discussion MS-25,63; ASH SAP 9th ed., ch.48, p.620; ASCO SEP 2026, ch.21, p.1220.
