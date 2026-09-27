@@ -1,5 +1,5 @@
 created: 20260907002307159
-modified: 20260907055908871
+modified: 20260927185919085
 tags: 
 title: Welcome
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ Browse notes by disease, clinical problem, or treatment. Some links lead to topi
 * ''Emergencies:'' [[Hematologic emergencies]] · [[Oncologic emergencies]]
 * ''On call:'' [[Febrile neutropenia]] · [[Tumor lysis syndrome]] · [[Hypercalcemia]] · [[Spinal cord compression]] · [[SVC syndrome]]
 * ''Treatment decisions:'' [[Transfusion thresholds]] · [[Anticoagulation]] · [[Chemotherapy dose modifications]]
-* ''Treatment complications:'' [[Immune-related adverse events]] · [[CAR-T toxicities]] · [[Stem-cell transplant complications]]
+* ''Treatment complications:'' [[Immune-related adverse events]] · [[CAR-T toxicities]] · [[Stem-cell transplant complications|Bone marrow transplantation]]
 * ''Consults:'' [[Diagnostic algorithms]] · [[Common consult questions]]
 
 !! Browse by disease
@@ -26,6 +26,12 @@ Browse notes by disease, clinical problem, or treatment. Some links lead to topi
 
 !!! Solid oncology
 [[Breast oncology]] · [[Thoracic oncology]] · [[Gastrointestinal oncology]] · [[Genitourinary oncology]] · [[Gynecologic oncology]] · [[Head and neck oncology]] · [[Endocrine malignancies]] · [[Melanoma and skin cancer]] · [[Sarcoma]] · [[CNS oncology]] · [[Cancer of unknown primary]] · [[Rare tumors]]
+
+!! Bone marrow transplantation
+
+[[Transplant overview|Bone marrow transplantation]]
+
+* [[CMV prevention and treatment after allogeneic transplantation]]
 
 !! Treatments and shared references
 

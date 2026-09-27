@@ -1,0 +1,132 @@
+created: 20260927185919085
+modified: 20260927194742576
+tags: [[Bone marrow transplantation]]
+title: CMV prevention and treatment after allogeneic transplantation
+type: text/vnd.tiddlywiki
+
+''Adult allo-HCT:'' Prevent CMV disease with letermovir plus surveillance; individualize treatment by kinetics, immunosuppression, and toxicity.
+
+!! Definitions
+
+* ''DNAemia:'' CMV DNA detected in blood; neither proves productive replication nor organ disease.
+** Reactivation represents renewed activity of latent infection in a previously infected recipient.
+* ''Preemptive therapy (PET):'' Treat significant asymptomatic DNAemia to prevent clinical disease.
+* ''Disease treatment:'' Treat symptomatic organ involvement supported by site-specific evidence, usually tissue histology/immunohistochemistry.
+** Negative blood PCR does not exclude gastrointestinal disease or retinitis; investigate compatible symptoms.
+* ''Primary prophylaxis:'' Letermovir for CMV-seropositive recipients (R+), regardless of donor serostatus.
+** Start early, day 0–28; continue through day 100, extending through day 200 when high-risk.
+** Routine letermovir is not recommended for R− recipients; use CMV-safe blood products.
+* ''Letermovir:'' CMV-specific terminase inhibitor; blocks DNA processing/packaging and virion maturation.
+** ''Dose:'' 480 mg PO/IV daily; 240 mg daily with cyclosporine.
+** Minimal marrow/renal toxicity; no HSV/VZV coverage—continue acyclovir/valacyclovir prophylaxis as indicated.
+** Review interactions, particularly calcineurin inhibitors/azoles; monitor interacting drug levels.
+** No renal adjustment when creatinine clearance >10 mL/min; data insufficient at ≤10 mL/min/on dialysis.
+*** IV vehicle can accumulate below 50 mL/min; monitor creatinine closely.
+** Not a treatment drug: resistance emerges readily with active replication; polymerase-inhibitor cross-resistance is not expected.
+
+!! Surveillance and treatment trigger
+
+''D = donor; R = recipient; +/− = CMV IgG seropositive/seronegative before transplant.''
+
+''Highest risk: R+ recipients.'' Donor positivity alone (D+/R−) carries lower risk than recipient positivity.
+
+|!Donor / recipient|!CMV risk|!Prevention and surveillance|
+|D−/R+|''Highest-risk serologic pairing'': recipient reactivation; greater risk of prolonged/recurrent infection.|''Letermovir'' plus at least weekly PCR through day 100, including during prophylaxis.|
+|D+/R+|''High risk'': recipient reactivation; donor CMV immunity may reduce prolonged/recurrent infection relative to D−/R+.|''Letermovir'' plus at least weekly PCR through day 100, including during prophylaxis.|
+|D+/R−|Intermediate risk: donor-derived primary infection; lower overall risk than R+ recipients.|At least weekly PCR through day 100; PET when indicated. ''No routine letermovir''.|
+|D−/R−|Lowest risk: primary infection remains possible.|CMV-safe blood products; ''no routine letermovir''. Lower-intensity PCR surveillance may suffice per center protocol.|
+
+* ''Across groups:'' Keep PCR assay/specimen type consistent; serostatus alone does not determine treatment thresholds.
+** Extend surveillance at least three further months when high-risk; continue during substantial immunosuppression and after prophylaxis withdrawal.
+** Additional risks: cord/haploidentical/mismatched graft, T-cell depletion, steroids, graft-versus-host disease (GVHD), prior DNAemia, delayed immune recovery.
+* ''Threshold:'' Use the center's validated threshold, viral kinetics, prophylaxis status, and clinical risk.
+** Reported plasma triggers span ~100–1,500 IU/mL; whole-blood values are not interchangeable.
+** Rising loads/high-dose steroids favor earlier PET; repeat low-level results promptly to establish trajectory.
+** ''Article example:'' 240 IU/mL resolved on letermovir without steroids; ~220 IU/mL would trigger treatment with ≥1 mg/kg corticosteroids.
+*** These are historical risk-adapted examples, not universal contemporary cutoffs.
+** Isolated low-level letermovir “blips” may reflect abortive replication; do not automatically stop prophylaxis.
+** Suspected organ disease requires urgent evaluation/treatment independently of a blood-PCR threshold.
+
+''Figure 3: Risk-adapted thresholds for preemptive therapy.''
+
+[img[CMV - Einsele 2020 Figure 3.png]]
+
+Einsele, Ljungman, and Boeckh, ''Blood'' 2020;135:1619–1629, Figure 3 (p.1622). © 2020 American Society of Hematology. [[Source|https://doi.org/10.1182/blood.2019000956]]. Historical thresholds reflect the authors' 2020 approach; use current assay- and center-specific protocols.
+
+!! Choose treatment and manage toxicity
+
+''Adult induction doses below assume normal renal function; adjust ganciclovir, valganciclovir, and foscarnet to renal function.''
+
+* ''Valganciclovir:'' 900 mg PO twice daily for stable patients with reliable absorption.
+* ''Ganciclovir:'' 5 mg/kg IV every 12 hours; favor with severe gut GVHD/malabsorption or severe disease.
+* ''Foscarnet:'' Useful with poor marrow function/pre-engraftment; nephrotoxicity and electrolyte wasting limit use.
+** NCCN induction: 90 mg/kg IV every 12 hours or 60 mg/kg every 8 hours.
+** Article PET regimen: 60 mg/kg every 12 hours; Seattle used 90 mg/kg every 12 hours.
+** Use the transplant-center protocol; hydrate, replace electrolytes, and reassess renal dosing frequently.
+* ''Cytopenias:'' Monitor CBC; consider G-CSF, remove other marrow suppressants, or switch agents.
+** Avoid underdosing (val)ganciclovir solely for neutropenia; necessary renal adjustment still applies.
+* ''Renal injury:'' Reassess nephrotoxins; switch foscarnet to renal-adjusted (val)ganciclovir if marrow permits.
+* ''Response:'' Follow PCR at least weekly, symptoms, CBC, creatinine, potassium, magnesium, calcium/phosphate.
+** PET: treat ≥14 days and until PCR undetectable; clearance confirmation/maintenance varies by center.
+** Disease: require clinical resolution as well as virologic response; often 6–8 weeks, organ-dependent.
+** IVIG is not routine PET; possible adjunct in CMV pneumonia, with limited supporting evidence.
+
+[img[CMV - Einsele 2020 visual abstract.png]]
+
+Einsele, Ljungman, and Boeckh, ''Blood'' 2020;135:1619–1629. © 2020 American Society of Hematology. [[Source|https://doi.org/10.1182/blood.2019000956]]. Original 2020 dosing overview; apply renal adjustments and the current center-specific protocol described below.
+
+!! Refractory infection and recurrence
+
+* ''Refractory:'' After ≥2 weeks of appropriate therapy, DNAemia rises or fails meaningful decline (≤1 log10 decrease).
+** Check adherence, absorption, renal dosing, interactions, and immunosuppression before attributing failure to resistance.
+* ''Resistant:'' Viral mutation reduces drug susceptibility; refractory infection does not necessarily imply resistance.
+** Send genotyping with refractory infection or significant breakthrough, especially after prolonged antiviral exposure.
+** Include exposure-relevant targets: UL97/UL54; UL56 with letermovir breakthrough. Low loads may limit testing.
+** In deteriorating patients, change therapy without waiting; reduce immunosuppression when feasible.
+* ''Maribavir:'' 400 mg PO twice daily for refractory/resistant CMV; less marrow/renal toxicity.
+** Avoid for CNS/retinal disease and avoid combining with (val)ganciclovir; monitor dysgeusia/interactions.
+** Foscarnet remains an alternative, particularly CNS/ocular disease; select using susceptibility and toxicity.
+** Cidofovir salvage requires probenecid/hydration; substantial renal toxicity.
+** CMV-specific T cells: specialist/access-dependent option; consider early referral for difficult cases.
+* ''Secondary prophylaxis:'' Consider letermovir after PCR clearance in recurrent/high-risk cases, provided susceptible.
+** Guideline-supported use; secondary prophylaxis is outside the specifically studied primary-prophylaxis regimen.
+** Continue surveillance; duration follows immunosuppression/immune recovery, without a universal stopping rule.
+
+!! Evidence and limits
+
+* Extended letermovir reduced clinically significant infection through week 28: 3% versus 19%.
+** Trial: extend to day 200 versus stop at day 100; R+ adults, high-risk, without prior clinically significant CMV.
+* ECIL favors routine R+ prophylaxis; NCCN says consider it. PET remains essential when unavailable.
+* CMV-specific immune assays may inform decisions; protective cutoffs and immune-guided stopping remain incompletely validated.
+
+Sources: [[Einsele 2020, pp.1619–1626, Table 1|https://doi.org/10.1182/blood.2019000956]]; [[EBMT Handbook 2024, 8th ed., §38.1.1|https://www.ncbi.nlm.nih.gov/books/NBK608315/]]; [[ECIL-10 final recommendations, slides 7–15,24–27|https://ecil-leukaemia.com/images/ecil-10/Recommendation_slides_ECIL_10_CMV_working_group_final_.pdf]]; [[GETH-TC 2024|https://pubmed.ncbi.nlm.nih.gov/39258183/]]; [[CMV definitions 2024|https://pmc.ncbi.nlm.nih.gov/articles/PMC11426271/]]; [[Russo 2024|https://pubmed.ncbi.nlm.nih.gov/38142695/]]; [[Letermovir US label, §§2,7,12.4|https://www.merck.com/product/usa/pi_circulars/p/prevymis/prevymis_pi.pdf]]; NCCN Prevention and Treatment of Cancer-Related Infections v1.2026 (3/11/2026), INF-4, FEV-C 1–2, Discussion MS-21–23; ASH SAP 9th ed. (2025), ch.30, p.361.
+
+!! Flashcards
+
+<<rememberq "20260927185956248"
+    "Allo-HCT: purpose of CMV preemptive therapy?"
+    "Treat asymptomatic DNAemia to prevent organ disease">>
+
+<<rememberq "20260927185956249"
+    "CMV-seropositive adult allo-HCT: preferred primary prophylaxis?"
+    "Letermovir">>
+
+<<rememberq "20260927185956250"
+    "Letermovir: antiviral target?"
+    "CMV terminase complex; blocks DNA processing/packaging">>
+
+<<rememberq "20260927185956251"
+    "Letermovir with cyclosporine: adult dose?"
+    "240 mg PO/IV daily">>
+
+<<rememberq "20260927185956252"
+    "Allo-HCT on letermovir: CMV PCR surveillance through day 100?"
+    "At least weekly">>
+
+<<rememberq "20260927185956253"
+    "Allo-HCT CMV: antiviral favored with severe cytopenias and adequate renal function?"
+    "Foscarnet">>
+
+<<rememberq "20260927185956254"
+    "Refractory/resistant CMV without CNS/retinal involvement: oral salvage agent?"
+    "Maribavir">>
