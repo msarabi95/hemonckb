@@ -1,0 +1,116 @@
+created: 20260928152946873
+modified: 20260928161850235
+tags: [[Lymphoplasmacytic lymphoma/Waldenström macroglobulinemia]]
+title: Lymphoplasmacytic lymphoma and Waldenström macroglobulinemia
+type: text/vnd.tiddlywiki
+
+* ''Core distinction:'' Waldenström macroglobulinemia (WM) is marrow lymphoplasmacytic lymphoma (LPL) with circulating monoclonal IgM.
+** Non-IgM, nonsecretory, or exclusively extramedullary LPL is not WM.
+
+!! Diagnosis and differential
+
+* ''LPL histology:'' Small B lymphocytes, plasmacytoid lymphocytes, and plasma cells; exclude another defined lymphoma.
+** Marrow aspirate/trephine biopsy: morphology, immunohistochemistry, and flow cytometry demonstrating shared light-chain restriction.
+** B cells: CD19+, CD20+, surface IgM+, CD25+; usually CD5−, CD10−, CD23−.
+*** Occasional CD5/CD10/CD23 expression does not exclude LPL; plasma cells express CD38/CD138.
+* ''WM threshold:'' Monoclonal IgM of any concentration plus convincing clonal marrow lymphoplasmacytic infiltration.
+** Gertz/Mayo criteria require ≥10%; LYSA/ICC/IWWM accept characteristic aggregates below 10%.
+** Tiny flow-detected clones alone are insufficient; document which diagnostic framework is used.
+* ''MYD88 L265P:'' Present in >90% of WM; supportive, neither required nor specific.
+** Also occurs in IgM MGUS and some other lymphomas; cannot distinguish MGUS from WM.
+** A negative result warrants assay-sensitivity review, broader MYD88 sequencing, and reconsideration of mimics.
+* ''IgM [[myeloma|Multiple myeloma]]:'' Plasma-cell neoplasm with myeloma-defining events; favor lytic lesions, t(11;14)/cyclin D1, wild-type MYD88.
+** CD138 positivity alone cannot discriminate: WM also contains clonal plasma cells.
+* ''Other lymphomas:'' Marginal zone lymphoma may closely overlap; integrate tissue architecture, distribution, phenotype, and genetics.
+** CLL/SLL favors CD5/CD23 coexpression; [[Mantle cell lymphoma]] favors cyclin D1/SOX11 and t(11;14).
+* ''Clinical categories:'' Smoldering WM lacks attributable symptoms/end-organ injury; symptomatic WM has these features.
+** IgM-mediated neuropathy, cryoglobulinemia, cold hemolysis, or amyloidosis can occur with a small clone.
+** Such IgM-related disorders do not automatically establish WM.
+
+!! Risk stratification
+
+* ''MSS-WM:'' Modified Staging System estimates overall survival in previously untreated, symptomatic WM.
+
+|!Variable|!Points|
+|Age ≤65 years|0|
+|Age 66–75 years|1|
+|Age >75 years|2|
+|Albumin <3.5 g/dL (35 g/L)|1|
+|LDH above laboratory upper limit|2|
+
+* ''Note'': Gertz Table 3 reports reports 1 point for LDH, ''a discrepancy from the original study (reporting error?)''.
+
+|!Total score|!Risk group|!5-year overall survival|
+|0|Low|93%|
+|1|Low-intermediate|82%|
+|2|Intermediate|69%|
+|≥3|High|55%|
+
+* ''Asymptomatic progression:'' Assess marrow burden, IgM, β2-microglobulin, and albumin separately.
+** Gertz highlights marrow ≥70%, IgM >4,500 mg/dL, β2-microglobulin >4 mg/L, albumin <3.5 g/dL.
+
+!! Initial work-up
+
+* ''Clinical:'' Assess performance status, comorbidities, family history, constitutional symptoms, bleeding, vision, neuropathy, cold-induced symptoms.
+** Examine lymph nodes, liver/spleen, skin, peripheral nerves, and fundi.
+* ''Blood:'' CBC/differential, smear, renal/liver chemistry, calcium, albumin, LDH, β2-microglobulin; include uric acid.
+* ''Paraprotein:'' Serum electrophoresis/immunofixation and quantitative IgM, IgG, IgA.
+** Kapoor/Gertz include serum free light chains and 24-hour urine electrophoresis/immunofixation.
+** LYSA reserves free light chains for suspected amyloidosis or monoclonal-protein renal disease.
+* ''Marrow/genetics:'' Aspirate plus trephine, immunophenotyping, and sensitive marrow MYD88 L265P PCR.
+** Peripheral-blood testing can be falsely negative; flow may underestimate marrow infiltration.
+** LYSA recommends diagnostic karyotype and FISH for del(6q)/trisomy 4.
+** Expanded profile: CXCR4 sequencing, TP53 sequencing, del(17p) FISH; consider CD19-enriched material.
+*** LYSA places mandatory TP53/del(17p) assessment in the pre-first-treatment work-up, not diagnostic criteria.
+* ''Imaging:'' CT chest/abdomen/pelvis ± neck assesses adenopathy and organomegaly.
+** PET/CT particularly when transformation is suspected; biopsy suspicious tissue.
+** Routine skeletal survey is unnecessary; investigate bone symptoms or suspected myeloma.
+* ''Hyperviscosity:'' Check serum viscosity with suggestive symptoms or IgM >4,000 mg/dL (Gertz).
+** Retinal examination with suspected hyperviscosity or IgM ≥3,000 mg/dL.
+* ''Targeted tests:'' Select according to presentation, rather than ordering every complication panel.
+** Hemolysis: reticulocytes, bilirubin, haptoglobin, direct antiglobulin test, cold agglutinins.
+** Cold/vasculitic symptoms: cryoglobulins/cryocrit; ensure warm specimen handling; assess hepatitis C.
+** Bleeding: coagulation studies, von Willebrand antigen/activity, factor VIII.
+** Neuropathy: neurology assessment, nerve conduction/electromyography, anti-MAG (myelin-associated glycoprotein) antibodies.
+** Suspected amyloidosis: Congo-red tissue testing with typing; urine protein, cardiac biomarkers/echocardiography as indicated.
+** CNS symptoms: MRI and cerebrospinal-fluid evaluation for Bing–Neel syndrome.
+** Baseline infection assessment: hepatitis B/C and HIV as appropriate.
+
+!! Management
+
+* [[Frontline management of lymphoplasmacytic lymphoma and Waldenström macroglobulinemia]]
+
+Sources: [[Gertz 2025|https://doi.org/10.1002/ajh.27666]], pp. 1063–1065, Box 1/Table 3; [[Kapoor & Rajkumar 2023|https://doi.org/10.1016/j.blre.2023.101129]], §2, Table 1 (pp. 5–6); [[LYSA 2026|https://doi.org/10.1016/j.ejca.2025.116120]], §1, Table 1 (pp. 2–4); [[Zanwar 2024, original MSS-WM|https://doi.org/10.1200/JCO.23.02066]]; NCCN Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma v1.2027 (August 11, 2026), WM/LPL-1, WM/LPL-A, Discussion MS-4–6; ASH SAP 9th ed., ch. 49, pp. 636–637; ASCO SEP 2026, ch. 21, p. 1229 (PDF p. 1236).
+
+<details>
+<summary>Flashcards</summary>
+
+<<rememberq "20260928161353103"
+    "WM: defining features (2)?"
+    "Marrow lymphoplasmacytic lymphoma + circulating monoclonal IgM of any concentration.">>
+
+<<rememberq "20260928161353104"
+    "IgM myeloma over WM: clues (3)?"
+    "Lytic lesions; t(11;14)/cyclin D1; wild-type MYD88.">>
+
+<<rememberq "20260928161353105"
+    "WM: MYD88 L265P diagnostic significance?"
+    "Supportive, neither required nor specific; also occurs in IgM MGUS.">>
+
+<<rememberq "20260928161353106"
+    "Original MSS-WM: weighted variables (3)?"
+    "Age 66–75: 1; >75: 2. Albumin <3.5 g/dL: 1. LDH >ULN: 2.">>
+
+<<rememberq "20260928161353107"
+    "MSS-WM: validated prognostic endpoint?"
+    "Overall survival in previously untreated, symptomatic WM.">>
+
+<<rememberq "20260928161353108"
+    "Suspected WM: marrow evaluation (3 components)?"
+    "Aspirate/trephine morphology; immunophenotyping; sensitive MYD88 L265P PCR.">>
+
+<<rememberq "20260928161353109"
+    "WM: serum viscosity indications (2; Gertz)?"
+    "Hyperviscosity symptoms or IgM >4,000 mg/dL.">>
+
+</details>

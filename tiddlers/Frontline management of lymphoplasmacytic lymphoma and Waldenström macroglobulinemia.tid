@@ -1,0 +1,24 @@
+created: 20260928153554026
+modified: 20260928161850235
+tags: [[Lymphoplasmacytic lymphoma/Waldenström macroglobulinemia]]
+title: Frontline management of lymphoplasmacytic lymphoma and Waldenström macroglobulinemia
+type: text/vnd.tiddlywiki
+
+* ''Treat symptoms/organ injury; observe asymptomatic disease.'' Non-IgM lymphoplasmacytic lymphoma generally follows the same approach.
+** Indications: attributable cytopenias, constitutional symptoms, symptomatic adenopathy/organomegaly, or clinically significant IgM-mediated complications.
+** ''Disagreement:'' Reviews reject IgM-only triggers; NCCN recommends treatment for asymptomatic IgM >6,000 mg/dL.
+* ''Hyperviscosity:'' Urgent plasma exchange plus prompt systemic therapy; defer red-cell transfusion when feasible.
+** ''IgM flare:'' Delay rituximab when IgM ≥4,000 mg/dL; consider pre-treatment plasma exchange.
+* ''Preferred options:'' Fixed-duration bendamustine–rituximab (BR) or continuous zanubrutinib; individualize toxicity, urgency, and preference.
+** ''BR:'' Rapid debulking; generally six cycles, with dose/cycle reductions for frailty or intolerance.
+** ''Zanubrutinib:'' Bruton tyrosine kinase inhibitor (BTKi); assess bleeding, cardiac risks, interactions, and adherence.
+*** Less atrial fibrillation than ibrutinib, but more neutropenia; interruptions risk IgM rebound.
+* ''Molecular selection:'' Review MYD88, CXCR4, and TP53/del(17p) before treatment.
+** LYSA favors BTKi with TP53 abnormalities; otherwise chemoimmunotherapy. Evidence relies on indirect comparisons.
+** MYD88 wild-type disfavors ibrutinib monotherapy; CXCR4 mutations can delay/reduce ibrutinib responses.
+* ''Alternatives:'' Dexamethasone–rituximab–cyclophosphamide suits frailty without urgent disease-control needs.
+** Bortezomib–dexamethasone–rituximab lowers IgM rapidly; avoid with significant neuropathy.
+* ''Exceptions:'' Rituximab monotherapy has limited roles; avoid frontline BTKi in LPL-associated amyloidosis.
+* ''After induction:'' No routine rituximab maintenance; follow symptoms, blood counts, and IgM.
+
+Sources: [[LYSA 2026|https://doi.org/10.1016/j.ejca.2025.116120]], §§1.5–2.1; [[Gertz 2025|https://doi.org/10.1002/ajh.27666]], pp. 1065–1067; [[Kapoor & Rajkumar 2023|https://doi.org/10.1016/j.blre.2023.101129]], §8, Table 3; NCCN Waldenström Macroglobulinemia/Lymphoplasmacytic Lymphoma v1.2027 (August 11, 2026), WM/LPL-1A–3, B(1–2), MS-7–8,11–12; ASH SAP 9th ed., ch. 49, p. 637; ASCO SEP 2026, ch. 21, p. 1229 (PDF p. 1236).
