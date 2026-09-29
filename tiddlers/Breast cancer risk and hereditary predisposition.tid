@@ -1,0 +1,23 @@
+created: 20260929183532876
+modified: 20260929183532876
+tags: [[Breast oncology]] [[Cancer genetics]]
+title: Breast cancer risk and hereditary predisposition
+type: text/vnd.tiddlywiki
+
+* ''Testing changes care:'' Offer BRCA1/2 testing for newly diagnosed breast cancer at age ≤65.
+** Test older patients when history, ancestry, male sex, triple-negative disease, or PARP eligibility warrants.
+** Unaffected relatives with suggestive pedigrees merit genetic counseling; test affected relatives first when feasible.
+* ''Recognize patterns:'' BRCA1 favors triple-negative disease; BRCA2 favors hormone-sensitive disease and male breast cancer.
+** PALB2: high-penetrance breast susceptibility, pancreatic association; TP53: Li-Fraumeni, very early breast cancer, sarcomas.
+** PTEN: Cowden, macrocephaly, thyroid/endometrial cancers; CDH1: lobular breast/diffuse gastric cancers.
+** STK11: Peutz-Jeghers; ATM and [[CHEK2|CHEK2 mutation: implications and management]] generally confer moderate penetrance.
+* ''Actionability:'' Pathogenic/likely pathogenic variants guide surveillance, surgical counseling, and family cascade testing.
+** TP53 favors avoiding radiation when feasible; germline BRCA1/2 may enable PARP inhibitors.
+*** Breast indications require appropriate stage/risk and HER2-negative disease.
+** Variants of uncertain significance never independently justify treatment or preventive surgery.
+* ''Risk context:'' US incidence rises, particularly below 50; mortality falls, but Black women fare worse.
+** Female sex, age, family history, prolonged reproductive estrogen exposure, and young-age chest irradiation increase risk.
+** Combined menopausal hormones, postmenopausal obesity, alcohol, and density increase risk; activity is inversely associated.
+* See [[screening and prevention|Breast oncology]] for risk-based choices; associations do not establish intervention benefit.
+
+Sources: ASCO SEP 2026, ch.10 “Breast Cancer,” pp.431–436; [[ASCO–SSO 2024|https://doi.org/10.1200/JCO.23.02225]]; NCCN Genetic/Familial High-Risk Assessment: Breast, Ovarian, Pancreatic, and Prostate v1.2027, CRIT-2; Discussion MS-9–10.
