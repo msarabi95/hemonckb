@@ -1,0 +1,22 @@
+created: 20260929052907943
+modified: 20260929052907943
+tags: [[Thoracic oncology]]
+title: NSCLC biomarker testing
+type: text/vnd.tiddlywiki
+
+* ''Key decision:'' Obtain actionable biomarkers before selecting systemic therapy for non-small cell lung cancer (NSCLC).
+* ''Metastatic disease:'' Request broad molecular profiling and PD-L1 immunohistochemistry for nonsquamous NSCLC.
+** Consider molecular profiling in all metastatic squamous cases, including patients with substantial smoking.
+** Include EGFR, ALK, ROS1, BRAF, KRAS, MET, RET, ERBB2, NTRK1/2/3, and NRG1.
+** Specify relevant alterations: MET exon 14 skipping and NRG1 fusions require suitable assays.
+* ''Tissue:'' Preserve diagnostic material; multigene next-generation sequencing limits waste from sequential single-gene tests.
+** Add RNA-based testing when DNA profiling finds no driver, improving fusion detection.
+* ''Plasma:'' Circulating tumor DNA can complement tissue profiling in advanced disease.
+** A negative plasma result requires complementary tissue assessment when feasible; low shedding causes false negatives.
+** Plasma cannot replace histologic diagnosis or tissue PD-L1 assessment; [[CHIP and CCUS]] can confound interpretation.
+* ''Localized disease:'' Obtain tissue biomarkers before perioperative decisions: EGFR, ALK, RET, and PD-L1.
+** Establish EGFR status before selecting consolidation after chemoradiation for unresectable stage III disease.
+* ''Treatment pearl:'' High PD-L1 does not override an actionable EGFR or ALK driver.
+** Do not select targeted treatment based on a variant of uncertain significance.
+
+Sources: ASCO SEP 2026, ch. 11, pp. 531–532 (PDF 538–539); NCCN Non-Small Cell Lung Cancer v7.2026, NSCL-3/13/19/20, NSCL-H 1–3/7, Discussion MS-12/15/18.
